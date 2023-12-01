@@ -10,12 +10,12 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#orange {
-  border-top-color: #ffa500;
-}
-
 #red {
   border-top-color: #f00;
+}
+
+#orange {
+  border-top-color: #ffa500;
 }
 
 #yellow {
@@ -37,4 +37,3 @@ div {
 #violet {
   border-top-color: #d300c9;
 }
-0 comments on commit bec986d
